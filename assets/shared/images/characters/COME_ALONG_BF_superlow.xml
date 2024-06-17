@@ -1,0 +1,131 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="COME ALONG BF.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bf D Miss0000" x="0" y="0" width="141.25" height="160.25"/>
+	<SubTexture name="Bf D Miss0001" x="141.25" y="0" width="141.25" height="160.25"/>
+	<SubTexture name="Bf D Miss0002" x="282.5" y="0" width="141.25" height="160.25"/>
+	<SubTexture name="Bf D Miss0003" x="423.75" y="0" width="141.25" height="160.25"/>
+	<SubTexture name="Bf D Miss0004" x="565" y="0" width="141.25" height="160.25"/>
+	<SubTexture name="Bf D Miss0005" x="706.25" y="0" width="141.25" height="160.25"/>
+	<SubTexture name="Bf D Miss0006" x="847.5" y="0" width="141.25" height="160.25"/>
+	<SubTexture name="Bf D Miss0007" x="988.75" y="0" width="141.25" height="160.25"/>
+	<SubTexture name="Bf D Miss0008" x="1130" y="0" width="141.25" height="160.25"/>
+	<SubTexture name="Bf D Miss0009" x="1271.25" y="0" width="141.25" height="160.25"/>
+	<SubTexture name="Bf D Miss0010" x="1412.5" y="0" width="141.25" height="160.25"/>
+	<SubTexture name="Bf D Miss0011" x="1553.75" y="0" width="141.25" height="160.25"/>
+	<SubTexture name="Bf D Miss0012" x="1695" y="0" width="141.25" height="160.25"/>
+	<SubTexture name="Bf D Miss0013" x="1836.25" y="0" width="141.25" height="160.25"/>
+	<SubTexture name="Bf Down0000" x="0" y="160.25" width="130.75" height="159.25"/>
+	<SubTexture name="Bf Down0001" x="130.75" y="160.25" width="130.75" height="159.25"/>
+	<SubTexture name="Bf Down0002" x="261.5" y="160.25" width="130.75" height="159.25"/>
+	<SubTexture name="Bf Down0003" x="392.25" y="160.25" width="130.75" height="159.25"/>
+	<SubTexture name="Bf Down0004" x="523" y="160.25" width="130.75" height="159.25"/>
+	<SubTexture name="Bf Down0005" x="653.75" y="160.25" width="130.75" height="159.25"/>
+	<SubTexture name="Bf Down0006" x="784.5" y="160.25" width="130.75" height="159.25"/>
+	<SubTexture name="Bf Down0007" x="915.25" y="160.25" width="130.75" height="159.25"/>
+	<SubTexture name="Bf Down0008" x="1046" y="160.25" width="130.75" height="159.25"/>
+	<SubTexture name="Bf Down0009" x="1176.75" y="160.25" width="130.75" height="159.25"/>
+	<SubTexture name="Bf Down0010" x="1307.5" y="160.25" width="130.75" height="159.25"/>
+	<SubTexture name="Bf Down0011" x="1438.25" y="160.25" width="130.75" height="159.25"/>
+	<SubTexture name="Bf Down0012" x="1569" y="160.25" width="130.75" height="159.25"/>
+	<SubTexture name="Bf Down0013" x="1699.75" y="160.25" width="130.75" height="159.25"/>
+	<SubTexture name="Bf Idle0000" x="1830.5" y="160.25" width="130.75" height="161.25"/>
+	<SubTexture name="Bf Idle0001" x="0" y="321.5" width="130.75" height="161.25"/>
+	<SubTexture name="Bf Idle0002" x="130.75" y="321.5" width="130.75" height="161.25"/>
+	<SubTexture name="Bf Idle0003" x="261.5" y="321.5" width="130.75" height="161.25"/>
+	<SubTexture name="Bf Idle0004" x="392.25" y="321.5" width="130.75" height="161.25"/>
+	<SubTexture name="Bf Idle0005" x="523" y="321.5" width="130.75" height="161.25"/>
+	<SubTexture name="Bf Idle0006" x="653.75" y="321.5" width="130.75" height="161.25"/>
+	<SubTexture name="Bf Idle0007" x="784.5" y="321.5" width="130.75" height="161.25"/>
+	<SubTexture name="Bf Idle0008" x="915.25" y="321.5" width="130.75" height="161.25"/>
+	<SubTexture name="Bf Idle0009" x="1046" y="321.5" width="130.75" height="161.25"/>
+	<SubTexture name="Bf Idle0010" x="1176.75" y="321.5" width="130.75" height="161.25"/>
+	<SubTexture name="Bf Idle0011" x="1307.5" y="321.5" width="130.75" height="161.25"/>
+	<SubTexture name="Bf Idle0012" x="1438.25" y="321.5" width="130.75" height="161.25"/>
+	<SubTexture name="Bf Idle0013" x="1569" y="321.5" width="130.75" height="161.25"/>
+	<SubTexture name="Bf L Miss0000" x="1699.75" y="321.5" width="158.75" height="163.25"/>
+	<SubTexture name="Bf L Miss0001" x="1858.5" y="321.5" width="158.75" height="163.25"/>
+	<SubTexture name="Bf L Miss0002" x="0" y="484.75" width="158.75" height="163.25"/>
+	<SubTexture name="Bf L Miss0003" x="158.75" y="484.75" width="158.75" height="163.25"/>
+	<SubTexture name="Bf L Miss0004" x="317.5" y="484.75" width="158.75" height="163.25"/>
+	<SubTexture name="Bf L Miss0005" x="476.25" y="484.75" width="158.75" height="163.25"/>
+	<SubTexture name="Bf L Miss0006" x="635" y="484.75" width="158.75" height="163.25"/>
+	<SubTexture name="Bf L Miss0007" x="793.75" y="484.75" width="158.75" height="163.25"/>
+	<SubTexture name="Bf L Miss0008" x="952.5" y="484.75" width="158.75" height="163.25"/>
+	<SubTexture name="Bf L Miss0009" x="1111.25" y="484.75" width="158.75" height="163.25"/>
+	<SubTexture name="Bf L Miss0010" x="1270" y="484.75" width="158.75" height="163.25"/>
+	<SubTexture name="Bf L Miss0011" x="1428.75" y="484.75" width="158.75" height="163.25"/>
+	<SubTexture name="Bf L Miss0012" x="1587.5" y="484.75" width="158.75" height="163.25"/>
+	<SubTexture name="Bf L Miss0013" x="1746.25" y="484.75" width="158.75" height="163.25"/>
+	<SubTexture name="Bf Left0000" x="1905" y="484.75" width="126.5" height="159.5"/>
+	<SubTexture name="Bf Left0001" x="0" y="648" width="126.5" height="159.5"/>
+	<SubTexture name="Bf Left0002" x="126.5" y="648" width="126.5" height="159.5"/>
+	<SubTexture name="Bf Left0003" x="253" y="648" width="126.5" height="159.5"/>
+	<SubTexture name="Bf Left0004" x="379.5" y="648" width="126.5" height="159.5"/>
+	<SubTexture name="Bf Left0005" x="506" y="648" width="126.5" height="159.5"/>
+	<SubTexture name="Bf Left0006" x="632.5" y="648" width="126.5" height="159.5"/>
+	<SubTexture name="Bf Left0007" x="759" y="648" width="126.5" height="159.5"/>
+	<SubTexture name="Bf Left0008" x="885.5" y="648" width="126.5" height="159.5"/>
+	<SubTexture name="Bf Left0009" x="1012" y="648" width="126.5" height="159.5"/>
+	<SubTexture name="Bf Left0010" x="1138.5" y="648" width="126.5" height="159.5"/>
+	<SubTexture name="Bf Left0011" x="1265" y="648" width="126.5" height="159.5"/>
+	<SubTexture name="Bf Left0012" x="1391.5" y="648" width="126.5" height="159.5"/>
+	<SubTexture name="Bf Left0013" x="1518" y="648" width="126.5" height="159.5"/>
+	<SubTexture name="Bf R Miss0000" x="1644.5" y="648" width="141" height="166.5"/>
+	<SubTexture name="Bf R Miss0001" x="1785.5" y="648" width="141" height="166.5"/>
+	<SubTexture name="Bf R Miss0002" x="0" y="814.5" width="141" height="166.5"/>
+	<SubTexture name="Bf R Miss0003" x="141" y="814.5" width="141" height="166.5"/>
+	<SubTexture name="Bf R Miss0004" x="282" y="814.5" width="141" height="166.5"/>
+	<SubTexture name="Bf R Miss0005" x="423" y="814.5" width="141" height="166.5"/>
+	<SubTexture name="Bf R Miss0006" x="564" y="814.5" width="141" height="166.5"/>
+	<SubTexture name="Bf R Miss0007" x="705" y="814.5" width="141" height="166.5"/>
+	<SubTexture name="Bf R Miss0008" x="846" y="814.5" width="141" height="166.5"/>
+	<SubTexture name="Bf R Miss0009" x="987" y="814.5" width="141" height="166.5"/>
+	<SubTexture name="Bf R Miss0010" x="1128" y="814.5" width="141" height="166.5"/>
+	<SubTexture name="Bf R Miss0011" x="1269" y="814.5" width="141" height="166.5"/>
+	<SubTexture name="Bf R Miss0012" x="1410" y="814.5" width="141" height="166.5"/>
+	<SubTexture name="Bf R Miss0013" x="1551" y="814.5" width="141" height="166.5"/>
+	<SubTexture name="Bf Right0000" x="1692" y="814.5" width="125.75" height="158.25"/>
+	<SubTexture name="Bf Right0001" x="1817.75" y="814.5" width="125.75" height="158.25"/>
+	<SubTexture name="Bf Right0002" x="0" y="981" width="125.75" height="158.25"/>
+	<SubTexture name="Bf Right0003" x="125.75" y="981" width="125.75" height="158.25"/>
+	<SubTexture name="Bf Right0004" x="251.5" y="981" width="125.75" height="158.25"/>
+	<SubTexture name="Bf Right0005" x="377.25" y="981" width="125.75" height="158.25"/>
+	<SubTexture name="Bf Right0006" x="503" y="981" width="125.75" height="158.25"/>
+	<SubTexture name="Bf Right0007" x="628.75" y="981" width="125.75" height="158.25"/>
+	<SubTexture name="Bf Right0008" x="754.5" y="981" width="125.75" height="158.25"/>
+	<SubTexture name="Bf Right0009" x="880.25" y="981" width="125.75" height="158.25"/>
+	<SubTexture name="Bf Right0010" x="1006" y="981" width="125.75" height="158.25"/>
+	<SubTexture name="Bf Right0011" x="1131.75" y="981" width="125.75" height="158.25"/>
+	<SubTexture name="Bf Right0012" x="1257.5" y="981" width="125.75" height="158.25"/>
+	<SubTexture name="Bf Right0013" x="1383.25" y="981" width="125.75" height="158.25"/>
+	<SubTexture name="Bf U Miss0000" x="1509" y="981" width="131.5" height="163.5"/>
+	<SubTexture name="Bf U Miss0001" x="1640.5" y="981" width="131.5" height="163.5"/>
+	<SubTexture name="Bf U Miss0002" x="1772" y="981" width="131.5" height="163.5"/>
+	<SubTexture name="Bf U Miss0003" x="1903.5" y="981" width="131.5" height="163.5"/>
+	<SubTexture name="Bf U Miss0004" x="0" y="1144.5" width="131.5" height="163.5"/>
+	<SubTexture name="Bf U Miss0005" x="131.5" y="1144.5" width="131.5" height="163.5"/>
+	<SubTexture name="Bf U Miss0006" x="263" y="1144.5" width="131.5" height="163.5"/>
+	<SubTexture name="Bf U Miss0007" x="394.5" y="1144.5" width="131.5" height="163.5"/>
+	<SubTexture name="Bf U Miss0008" x="526" y="1144.5" width="131.5" height="163.5"/>
+	<SubTexture name="Bf U Miss0009" x="657.5" y="1144.5" width="131.5" height="163.5"/>
+	<SubTexture name="Bf U Miss0010" x="789" y="1144.5" width="131.5" height="163.5"/>
+	<SubTexture name="Bf U Miss0011" x="920.5" y="1144.5" width="131.5" height="163.5"/>
+	<SubTexture name="Bf U Miss0012" x="1052" y="1144.5" width="131.5" height="163.5"/>
+	<SubTexture name="Bf U Miss0013" x="1183.5" y="1144.5" width="131.5" height="163.5"/>
+	<SubTexture name="Bf Up0000" x="1315" y="1144.5" width="126.5" height="161.25"/>
+	<SubTexture name="Bf Up0001" x="1441.5" y="1144.5" width="126.5" height="161.25"/>
+	<SubTexture name="Bf Up0002" x="1568" y="1144.5" width="126.5" height="161.25"/>
+	<SubTexture name="Bf Up0003" x="1694.5" y="1144.5" width="126.5" height="161.25"/>
+	<SubTexture name="Bf Up0004" x="1821" y="1144.5" width="126.5" height="161.25"/>
+	<SubTexture name="Bf Up0005" x="0" y="1308" width="126.5" height="161.25"/>
+	<SubTexture name="Bf Up0006" x="126.5" y="1308" width="126.5" height="161.25"/>
+	<SubTexture name="Bf Up0007" x="253" y="1308" width="126.5" height="161.25"/>
+	<SubTexture name="Bf Up0008" x="379.5" y="1308" width="126.5" height="161.25"/>
+	<SubTexture name="Bf Up0009" x="506" y="1308" width="126.5" height="161.25"/>
+	<SubTexture name="Bf Up0010" x="632.5" y="1308" width="126.5" height="161.25"/>
+	<SubTexture name="Bf Up0011" x="759" y="1308" width="126.5" height="161.25"/>
+	<SubTexture name="Bf Up0012" x="885.5" y="1308" width="126.5" height="161.25"/>
+	<SubTexture name="Bf Up0013" x="1012" y="1308" width="126.5" height="161.25"/>
+</TextureAtlas>

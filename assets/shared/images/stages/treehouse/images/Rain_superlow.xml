@@ -1,0 +1,33 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="Rain.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Rain0000" x="13.75" y="13.75" width="590.75" height="347.75" frameX="-234" frameY="-97.25" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0001" x="13.75" y="13.75" width="590.75" height="347.75" frameX="-234" frameY="-97.25" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0002" x="618.25" y="13.75" width="846.25" height="358.5" frameX="0" frameY="-91.5" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0003" x="618.25" y="13.75" width="846.25" height="358.5" frameX="0" frameY="-91.5" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0004" x="1478.25" y="13.75" width="336.25" height="244.75" frameX="-334.75" frameY="-157.75" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0005" x="1478.25" y="13.75" width="336.25" height="244.75" frameX="-334.75" frameY="-157.75" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0006" x="13.75" y="386" width="492" height="504.25" frameX="-210.75" frameY="-38.75" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0007" x="13.75" y="386" width="492" height="504.25" frameX="-210.75" frameY="-38.75" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0008" x="519.5" y="386" width="532.5" height="306.75" frameX="-244.25" frameY="-163" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0009" x="519.5" y="386" width="532.5" height="306.75" frameX="-244.25" frameY="-163" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0010" x="1065.75" y="386" width="883.25" height="518.25" frameX="-86" frameY="0" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0011" x="1065.75" y="386" width="883.25" height="518.25" frameX="-86" frameY="0" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0012" x="13.75" y="918" width="795.25" height="453" frameX="-214" frameY="-117.5" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0013" x="13.75" y="918" width="795.25" height="453" frameX="-214" frameY="-117.5" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0014" x="822.75" y="918" width="410" height="354.5" frameX="-306.25" frameY="-124.5" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0015" x="822.75" y="918" width="410" height="354.5" frameX="-306.25" frameY="-124.5" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0016" x="1246.5" y="918" width="650.5" height="330.25" frameX="-154.5" frameY="-90.25" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0017" x="1246.5" y="918" width="650.5" height="330.25" frameX="-154.5" frameY="-90.25" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0018" x="13.75" y="1384.75" width="796" height="428.5" frameX="-113" frameY="-82" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0019" x="13.75" y="1384.75" width="796" height="428.5" frameX="-113" frameY="-82" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0020" x="13.75" y="386" width="492" height="504.25" frameX="-210.75" frameY="-38.75" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0021" x="13.75" y="386" width="492" height="504.25" frameX="-210.75" frameY="-38.75" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0022" x="519.5" y="386" width="532.5" height="306.75" frameX="-244.25" frameY="-163" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0023" x="519.5" y="386" width="532.5" height="306.75" frameX="-244.25" frameY="-163" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0024" x="1065.75" y="386" width="883.25" height="518.25" frameX="-86" frameY="0" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0025" x="1065.75" y="386" width="883.25" height="518.25" frameX="-86" frameY="0" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0026" x="13.75" y="918" width="795.25" height="453" frameX="-214" frameY="-117.5" frameWidth="1009.25" frameHeight="570.5"/>
+	<SubTexture name="Rain0027" x="13.75" y="918" width="795.25" height="453" frameX="-214" frameY="-117.5" frameWidth="1009.25" frameHeight="570.5"/>
+</TextureAtlas>

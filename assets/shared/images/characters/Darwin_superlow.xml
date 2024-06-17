@@ -1,0 +1,231 @@
+﻿<?xml version="0.25" encoding="utf-8"?>
+<TextureAtlas imagePath="Darwin.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Darwin Idle0000" x="0.5" y="0.5" width="69.75" height="61.5" frameX="-0.5" frameY="0" frameWidth="70.5" frameHeight="61.75"/>
+	<SubTexture name="Darwin Idle0001" x="0.5" y="0.5" width="69.75" height="61.5" frameX="-0.5" frameY="0" frameWidth="70.5" frameHeight="61.75"/>
+	<SubTexture name="Darwin Idle0002" x="70.75" y="0.5" width="69.25" height="60.75" frameX="0" frameY="-0.75" frameWidth="70.5" frameHeight="61.75"/>
+	<SubTexture name="Darwin Idle0003" x="70.75" y="0.5" width="69.25" height="60.75" frameX="0" frameY="-0.75" frameWidth="70.5" frameHeight="61.75"/>
+	<SubTexture name="Darwin Idle0004" x="140.5" y="0.5" width="68.75" height="60.75" frameX="-0.25" frameY="-0.75" frameWidth="70.5" frameHeight="61.75"/>
+	<SubTexture name="Darwin Idle0005" x="140.5" y="0.5" width="68.75" height="60.75" frameX="-0.25" frameY="-0.75" frameWidth="70.5" frameHeight="61.75"/>
+	<SubTexture name="Darwin Idle0006" x="209.75" y="0.5" width="68.5" height="61.25" frameX="-0.75" frameY="-0.25" frameWidth="70.5" frameHeight="61.75"/>
+	<SubTexture name="Darwin Idle0007" x="209.75" y="0.5" width="68.5" height="61.25" frameX="-0.75" frameY="-0.25" frameWidth="70.5" frameHeight="61.75"/>
+	<SubTexture name="Darwin Idle0008" x="278.75" y="0.5" width="69.25" height="61.25" frameX="-0.75" frameY="-0.25" frameWidth="70.5" frameHeight="61.75"/>
+	<SubTexture name="Darwin Idle0009" x="278.75" y="0.5" width="69.25" height="61.25" frameX="-0.75" frameY="-0.25" frameWidth="70.5" frameHeight="61.75"/>
+	<SubTexture name="Darwin Idle0010" x="348.5" y="0.5" width="69.5" height="61.75" frameX="-1" frameY="0" frameWidth="70.5" frameHeight="61.75"/>
+	<SubTexture name="Darwin Idle0011" x="348.5" y="0.5" width="69.5" height="61.75" frameX="-1" frameY="0" frameWidth="70.5" frameHeight="61.75"/>
+	<SubTexture name="Darwin Idle0012" x="0.5" y="0.5" width="69.75" height="61.5" frameX="-0.5" frameY="0" frameWidth="70.5" frameHeight="61.75"/>
+	<SubTexture name="Darwin Idle0013" x="0.5" y="0.5" width="69.75" height="61.5" frameX="-0.5" frameY="0" frameWidth="70.5" frameHeight="61.75"/>
+	<SubTexture name="Darwin Idle0014" x="70.75" y="0.5" width="69.25" height="60.75" frameX="0" frameY="-0.75" frameWidth="70.5" frameHeight="61.75"/>
+	<SubTexture name="Darwin Idle0015" x="70.75" y="0.5" width="69.25" height="60.75" frameX="0" frameY="-0.75" frameWidth="70.5" frameHeight="61.75"/>
+	<SubTexture name="Darwin Idle0016" x="140.5" y="0.5" width="68.75" height="60.75" frameX="-0.25" frameY="-0.75" frameWidth="70.5" frameHeight="61.75"/>
+	<SubTexture name="Darwin Idle0017" x="140.5" y="0.5" width="68.75" height="60.75" frameX="-0.25" frameY="-0.75" frameWidth="70.5" frameHeight="61.75"/>
+	<SubTexture name="Darwin Idle0018" x="209.75" y="0.5" width="68.5" height="61.25" frameX="-0.75" frameY="-0.25" frameWidth="70.5" frameHeight="61.75"/>
+	<SubTexture name="Darwin Idle0019" x="209.75" y="0.5" width="68.5" height="61.25" frameX="-0.75" frameY="-0.25" frameWidth="70.5" frameHeight="61.75"/>
+	<SubTexture name="Darwin Idle0020" x="278.75" y="0.5" width="69.25" height="61.25" frameX="-0.75" frameY="-0.25" frameWidth="70.5" frameHeight="61.75"/>
+	<SubTexture name="Darwin Idle0021" x="278.75" y="0.5" width="69.25" height="61.25" frameX="-0.75" frameY="-0.25" frameWidth="70.5" frameHeight="61.75"/>
+	<SubTexture name="Darwin Idle0022" x="418.5" y="0.5" width="69.75" height="61.75" frameX="-0.75" frameY="0" frameWidth="70.5" frameHeight="61.75"/>
+	<SubTexture name="Darwin down0000" x="488.75" y="0.5" width="68.25" height="44.25" frameX="-0.25" frameY="-1" frameWidth="68.75" frameHeight="45.25"/>
+	<SubTexture name="Darwin down0001" x="488.75" y="0.5" width="68.25" height="44.25" frameX="-0.25" frameY="-1" frameWidth="68.75" frameHeight="45.25"/>
+	<SubTexture name="Darwin down0002" x="557.5" y="0.5" width="67.75" height="44.75" frameX="0" frameY="-0.5" frameWidth="68.75" frameHeight="45.25"/>
+	<SubTexture name="Darwin down0003" x="557.5" y="0.5" width="67.75" height="44.75" frameX="0" frameY="-0.5" frameWidth="68.75" frameHeight="45.25"/>
+	<SubTexture name="Darwin down0004" x="625.75" y="0.5" width="68" height="45" frameX="-0.25" frameY="-0.25" frameWidth="68.75" frameHeight="45.25"/>
+	<SubTexture name="Darwin down0005" x="625.75" y="0.5" width="68" height="45" frameX="-0.25" frameY="-0.25" frameWidth="68.75" frameHeight="45.25"/>
+	<SubTexture name="Darwin down0006" x="694.25" y="0.5" width="68.5" height="45.25" frameX="-0.25" frameY="0" frameWidth="68.75" frameHeight="45.25"/>
+	<SubTexture name="Darwin down0007" x="694.25" y="0.5" width="68.5" height="45.25" frameX="-0.25" frameY="0" frameWidth="68.75" frameHeight="45.25"/>
+	<SubTexture name="Darwin down0008" x="763.25" y="0.5" width="68.25" height="45.25" frameX="-0.5" frameY="0" frameWidth="68.75" frameHeight="45.25"/>
+	<SubTexture name="Darwin down0009" x="832" y="0.5" width="68.25" height="45.25" frameX="-0.5" frameY="0" frameWidth="68.75" frameHeight="45.25"/>
+	<SubTexture name="Darwin down0010" x="900.75" y="0.5" width="68.25" height="45.25" frameX="-0.5" frameY="0" frameWidth="68.75" frameHeight="45.25"/>
+	<SubTexture name="Darwin down0011" x="900.75" y="0.5" width="68.25" height="45.25" frameX="-0.5" frameY="0" frameWidth="68.75" frameHeight="45.25"/>
+	<SubTexture name="Darwin left0000" x="0.5" y="62.75" width="88" height="61" frameX="0" frameY="0" frameWidth="88.25" frameHeight="61"/>
+	<SubTexture name="Darwin left0001" x="0.5" y="62.75" width="88" height="61" frameX="0" frameY="0" frameWidth="88.25" frameHeight="61"/>
+	<SubTexture name="Darwin left0002" x="89" y="62.75" width="87.5" height="60.5" frameX="-0.5" frameY="-0.5" frameWidth="88.25" frameHeight="61"/>
+	<SubTexture name="Darwin left0003" x="89" y="62.75" width="87.5" height="60.5" frameX="-0.5" frameY="-0.5" frameWidth="88.25" frameHeight="61"/>
+	<SubTexture name="Darwin left0004" x="177" y="62.75" width="87.75" height="60.5" frameX="-0.5" frameY="-0.5" frameWidth="88.25" frameHeight="61"/>
+	<SubTexture name="Darwin left0005" x="177" y="62.75" width="87.75" height="60.5" frameX="-0.5" frameY="-0.5" frameWidth="88.25" frameHeight="61"/>
+	<SubTexture name="Darwin left0006" x="265.25" y="62.75" width="87.75" height="60.5" frameX="-0.5" frameY="-0.5" frameWidth="88.25" frameHeight="61"/>
+	<SubTexture name="Darwin left0007" x="353.5" y="62.75" width="87.75" height="60.5" frameX="-0.5" frameY="-0.5" frameWidth="88.25" frameHeight="61"/>
+	<SubTexture name="Darwin left0008" x="441.75" y="62.75" width="87.75" height="60.5" frameX="-0.5" frameY="-0.5" frameWidth="88.25" frameHeight="61"/>
+	<SubTexture name="Darwin left0009" x="441.75" y="62.75" width="87.75" height="60.5" frameX="-0.5" frameY="-0.5" frameWidth="88.25" frameHeight="61"/>
+	<SubTexture name="Darwin left0010" x="530" y="62.75" width="87.75" height="60.5" frameX="-0.5" frameY="-0.5" frameWidth="88.25" frameHeight="61"/>
+	<SubTexture name="Darwin right0000" x="618.25" y="62.75" width="75.75" height="58.5" frameX="-1.25" frameY="-0.5" frameWidth="77" frameHeight="59"/>
+	<SubTexture name="Darwin right0001" x="618.25" y="62.75" width="75.75" height="58.5" frameX="-1.25" frameY="-0.5" frameWidth="77" frameHeight="59"/>
+	<SubTexture name="Darwin right0002" x="694.5" y="62.75" width="70.25" height="58.5" frameX="-1.25" frameY="-0.5" frameWidth="77" frameHeight="59"/>
+	<SubTexture name="Darwin right0003" x="694.5" y="62.75" width="70.25" height="58.5" frameX="-1.25" frameY="-0.5" frameWidth="77" frameHeight="59"/>
+	<SubTexture name="Darwin right0004" x="765.25" y="62.75" width="70.75" height="58.5" frameX="-1.25" frameY="-0.5" frameWidth="77" frameHeight="59"/>
+	<SubTexture name="Darwin right0005" x="765.25" y="62.75" width="70.75" height="58.5" frameX="-1.25" frameY="-0.5" frameWidth="77" frameHeight="59"/>
+	<SubTexture name="Darwin right0006" x="836.5" y="62.75" width="71" height="58.75" frameX="-1.25" frameY="-0.25" frameWidth="77" frameHeight="59"/>
+	<SubTexture name="Darwin right0007" x="836.5" y="62.75" width="71" height="58.75" frameX="-1.25" frameY="-0.25" frameWidth="77" frameHeight="59"/>
+	<SubTexture name="Darwin right0008" x="908" y="62.75" width="71.75" height="58.75" frameX="-1.25" frameY="-0.25" frameWidth="77" frameHeight="59"/>
+	<SubTexture name="Darwin right0009" x="0.5" y="124.25" width="70" height="59" frameX="-0.5" frameY="0" frameWidth="77" frameHeight="59"/>
+	<SubTexture name="Darwin right0010" x="71" y="124.25" width="67.75" height="58.75" frameX="0" frameY="-0.25" frameWidth="77" frameHeight="59"/>
+	<SubTexture name="Darwin up0000" x="139.25" y="124.25" width="58" height="71.25" frameX="-0.75" frameY="0" frameWidth="58.75" frameHeight="71.25"/>
+	<SubTexture name="Darwin up0001" x="139.25" y="124.25" width="58" height="71.25" frameX="-0.75" frameY="0" frameWidth="58.75" frameHeight="71.25"/>
+	<SubTexture name="Darwin up0002" x="197.75" y="124.25" width="56.5" height="69.25" frameX="0" frameY="-2" frameWidth="58.75" frameHeight="71.25"/>
+	<SubTexture name="Darwin up0003" x="197.75" y="124.25" width="56.5" height="69.25" frameX="0" frameY="-2" frameWidth="58.75" frameHeight="71.25"/>
+	<SubTexture name="Darwin up0004" x="254.75" y="124.25" width="57.75" height="68.75" frameX="0" frameY="-2.5" frameWidth="58.75" frameHeight="71.25"/>
+	<SubTexture name="Darwin up0005" x="254.75" y="124.25" width="57.75" height="68.75" frameX="0" frameY="-2.5" frameWidth="58.75" frameHeight="71.25"/>
+	<SubTexture name="Darwin up0006" x="313" y="124.25" width="57.5" height="68.75" frameX="0" frameY="-2.5" frameWidth="58.75" frameHeight="71.25"/>
+	<SubTexture name="Darwin up0007" x="371" y="124.25" width="57.5" height="68.75" frameX="0" frameY="-2.5" frameWidth="58.75" frameHeight="71.25"/>
+	<SubTexture name="Darwin up0008" x="429" y="124.25" width="57.75" height="68.5" frameX="0" frameY="-2.75" frameWidth="58.75" frameHeight="71.25"/>
+	<SubTexture name="Darwin up0009" x="429" y="124.25" width="57.75" height="68.5" frameX="0" frameY="-2.75" frameWidth="58.75" frameHeight="71.25"/>
+	<SubTexture name="Darwin up0010" x="487.25" y="124.25" width="57.75" height="68.5" frameX="0" frameY="-2.75" frameWidth="58.75" frameHeight="71.25"/>
+	<SubTexture name="Darwin-dead-confirm0000" x="545.5" y="124.25" width="48.75" height="60.5" frameX="-13.75" frameY="-17.5" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0001" x="594.75" y="124.25" width="48.75" height="65.5" frameX="-13.75" frameY="-12.5" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0002" x="644" y="124.25" width="48.75" height="78" frameX="-13.75" frameY="0" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0003" x="693.25" y="124.25" width="63.5" height="67.5" frameX="-5" frameY="-10.5" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0004" x="757.25" y="124.25" width="63.5" height="67.5" frameX="-5" frameY="-10.5" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0005" x="821.25" y="124.25" width="63.5" height="67.25" frameX="-5" frameY="-10.75" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0006" x="885.25" y="124.25" width="63.5" height="67.25" frameX="-5" frameY="-10.75" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0007" x="949.25" y="124.25" width="63.5" height="67.25" frameX="-5" frameY="-10.75" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0008" x="0.5" y="202.75" width="63.5" height="67" frameX="-5" frameY="-11" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0009" x="64.5" y="202.75" width="63.5" height="67" frameX="-5" frameY="-11" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0010" x="128.5" y="202.75" width="63.5" height="66.75" frameX="-5" frameY="-11.25" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0011" x="192.5" y="202.75" width="63.5" height="66.75" frameX="-5" frameY="-11.25" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0012" x="256.5" y="202.75" width="64" height="66.75" frameX="-4.75" frameY="-11.25" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0013" x="321" y="202.75" width="65" height="66.75" frameX="-4.25" frameY="-11.25" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0014" x="386.5" y="202.75" width="66.5" height="66.5" frameX="-3.5" frameY="-11.5" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0015" x="453.5" y="202.75" width="67.5" height="66.5" frameX="-3" frameY="-11.5" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0016" x="521.5" y="202.75" width="69" height="66.5" frameX="-2.25" frameY="-11.5" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0017" x="591" y="202.75" width="69.5" height="66.5" frameX="-2" frameY="-11.5" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0018" x="661" y="202.75" width="70.5" height="66.5" frameX="-1.5" frameY="-11.5" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0019" x="732" y="202.75" width="71.5" height="66.5" frameX="-1" frameY="-11.5" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0020" x="804" y="202.75" width="72" height="66.25" frameX="-0.75" frameY="-11.75" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0021" x="876.5" y="202.75" width="72.5" height="66.25" frameX="-0.5" frameY="-11.75" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0022" x="949.5" y="202.75" width="73" height="66.25" frameX="-0.25" frameY="-11.75" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0023" x="0.5" y="270.25" width="73" height="66.25" frameX="-0.25" frameY="-11.75" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0024" x="74" y="270.25" width="73.5" height="66.25" frameX="0" frameY="-11.75" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0025" x="74" y="270.25" width="73.5" height="66.25" frameX="0" frameY="-11.75" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0026" x="74" y="270.25" width="73.5" height="66.25" frameX="0" frameY="-11.75" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0027" x="74" y="270.25" width="73.5" height="66.25" frameX="0" frameY="-11.75" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0028" x="74" y="270.25" width="73.5" height="66.25" frameX="0" frameY="-11.75" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0029" x="74" y="270.25" width="73.5" height="66.25" frameX="0" frameY="-11.75" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0030" x="74" y="270.25" width="73.5" height="66.25" frameX="0" frameY="-11.75" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0031" x="74" y="270.25" width="73.5" height="66.25" frameX="0" frameY="-11.75" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0032" x="74" y="270.25" width="73.5" height="66.25" frameX="0" frameY="-11.75" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0033" x="74" y="270.25" width="73.5" height="66.25" frameX="0" frameY="-11.75" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-confirm0034" x="74" y="270.25" width="73.5" height="66.25" frameX="0" frameY="-11.75" frameWidth="73.5" frameHeight="78"/>
+	<SubTexture name="Darwin-dead-loop0000" x="148" y="270.25" width="48.75" height="60" frameX="0" frameY="-0.25" frameWidth="48.75" frameHeight="60.25"/>
+	<SubTexture name="Darwin-dead-loop0001" x="197.25" y="270.25" width="48.75" height="60" frameX="0" frameY="-0.25" frameWidth="48.75" frameHeight="60.25"/>
+	<SubTexture name="Darwin-dead-loop0002" x="246.5" y="270.25" width="48.75" height="60" frameX="0" frameY="-0.25" frameWidth="48.75" frameHeight="60.25"/>
+	<SubTexture name="Darwin-dead-loop0003" x="295.75" y="270.25" width="48.75" height="60" frameX="0" frameY="-0.25" frameWidth="48.75" frameHeight="60.25"/>
+	<SubTexture name="Darwin-dead-loop0004" x="345" y="270.25" width="48.75" height="60" frameX="0" frameY="-0.25" frameWidth="48.75" frameHeight="60.25"/>
+	<SubTexture name="Darwin-dead-loop0005" x="394.25" y="270.25" width="48.75" height="60" frameX="0" frameY="-0.25" frameWidth="48.75" frameHeight="60.25"/>
+	<SubTexture name="Darwin-dead-loop0006" x="443.5" y="270.25" width="48.75" height="57.5" frameX="0" frameY="-2.75" frameWidth="48.75" frameHeight="60.25"/>
+	<SubTexture name="Darwin-dead-loop0007" x="492.75" y="270.25" width="48.75" height="60" frameX="0" frameY="-0.25" frameWidth="48.75" frameHeight="60.25"/>
+	<SubTexture name="Darwin-dead-loop0008" x="492.75" y="270.25" width="48.75" height="60" frameX="0" frameY="-0.25" frameWidth="48.75" frameHeight="60.25"/>
+	<SubTexture name="Darwin-dead-loop0009" x="542" y="270.25" width="48.75" height="60.25"/>
+	<SubTexture name="Darwin-dead-loop0010" x="542" y="270.25" width="48.75" height="60.25"/>
+	<SubTexture name="Darwin-dead-loop0011" x="591.25" y="270.25" width="48.75" height="60" frameX="0" frameY="-0.25" frameWidth="48.75" frameHeight="60.25"/>
+	<SubTexture name="Darwin-dead-loop0012" x="591.25" y="270.25" width="48.75" height="60" frameX="0" frameY="-0.25" frameWidth="48.75" frameHeight="60.25"/>
+	<SubTexture name="Darwin-dead-loop0013" x="640.5" y="270.25" width="48.75" height="60" frameX="0" frameY="-0.25" frameWidth="48.75" frameHeight="60.25"/>
+	<SubTexture name="Darwin-die0000" x="689.75" y="270.25" width="69.25" height="61.5" frameX="-7" frameY="-5.25" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0001" x="759.5" y="270.25" width="75.75" height="68" frameX="-4.25" frameY="-2.5" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0002" x="835.75" y="270.25" width="78.25" height="67.25" frameX="0" frameY="0" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0003" x="835.75" y="270.25" width="78.25" height="67.25" frameX="0" frameY="0" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0004" x="914.5" y="270.25" width="78.25" height="67.25" frameX="0" frameY="0" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0005" x="0.5" y="338.75" width="78.25" height="67.25" frameX="0" frameY="0" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0006" x="79.25" y="338.75" width="66.75" height="59.75" frameX="-3.25" frameY="-1.5" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0007" x="146.5" y="338.75" width="67" height="59.75" frameX="-3" frameY="-1.5" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0008" x="214" y="338.75" width="64.75" height="60.25" frameX="-5.75" frameY="-1" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0009" x="279.25" y="338.75" width="64.5" height="60.25" frameX="-5.75" frameY="-1" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0010" x="344.25" y="338.75" width="65.25" height="60.25" frameX="-5.75" frameY="-1" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0011" x="344.25" y="338.75" width="65.25" height="60.25" frameX="-5.75" frameY="-1" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0012" x="410" y="338.75" width="66.75" height="60.25" frameX="-6" frameY="-1" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0013" x="477.25" y="338.75" width="66.75" height="60.25" frameX="-6" frameY="-1" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0014" x="544.5" y="338.75" width="64.75" height="60" frameX="-6" frameY="-0.75" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0015" x="609.75" y="338.75" width="54.25" height="60.5" frameX="-6" frameY="-0.75" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0016" x="664.5" y="338.75" width="64.75" height="60.75" frameX="-6.25" frameY="-0.75" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0017" x="664.5" y="338.75" width="64.75" height="60.75" frameX="-6.25" frameY="-0.75" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0018" x="729.75" y="338.75" width="64" height="60.25" frameX="-7.75" frameY="-1.5" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0019" x="794.25" y="338.75" width="64" height="59.75" frameX="-7.75" frameY="-1.5" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0020" x="858.75" y="338.75" width="59.75" height="59.25" frameX="-12" frameY="-2.25" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0021" x="919" y="338.75" width="58.75" height="59.25" frameX="-13" frameY="-2.25" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0022" x="0.5" y="406.5" width="56.25" height="57.25" frameX="-14.75" frameY="-5.75" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0023" x="57.25" y="406.5" width="55.75" height="57.75" frameX="-15.75" frameY="-5" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0024" x="113.5" y="406.5" width="57" height="57.75" frameX="-15.75" frameY="-5" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0025" x="171" y="406.5" width="48.75" height="57.5" frameX="-14.25" frameY="-5.5" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0026" x="220.25" y="406.5" width="48.75" height="57.5" frameX="-14.25" frameY="-5.5" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0027" x="269.5" y="406.5" width="48.75" height="57.25" frameX="-14" frameY="-5.75" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0028" x="269.5" y="406.5" width="48.75" height="57.25" frameX="-14" frameY="-5.75" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0029" x="318.75" y="406.5" width="49" height="57.5" frameX="-14" frameY="-5.5" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0030" x="368.25" y="406.5" width="49" height="57.5" frameX="-14" frameY="-5.5" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0031" x="417.75" y="406.5" width="49" height="57.5" frameX="-14" frameY="-5.5" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0032" x="417.75" y="406.5" width="49" height="57.5" frameX="-14" frameY="-5.5" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0033" x="467.25" y="406.5" width="49" height="57.5" frameX="-14" frameY="-5.5" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0034" x="516.75" y="406.5" width="49" height="57.5" frameX="-14" frameY="-5.5" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0035" x="516.75" y="406.5" width="49" height="57.5" frameX="-14" frameY="-5.5" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0036" x="566.25" y="406.5" width="49" height="58" frameX="-14" frameY="-5" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0037" x="566.25" y="406.5" width="49" height="58" frameX="-14" frameY="-5" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0038" x="615.75" y="406.5" width="49" height="59" frameX="-14" frameY="-4" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0039" x="615.75" y="406.5" width="49" height="59" frameX="-14" frameY="-4" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0040" x="665.25" y="406.5" width="49" height="60" frameX="-14" frameY="-3" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0041" x="665.25" y="406.5" width="49" height="60" frameX="-14" frameY="-3" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0042" x="714.75" y="406.5" width="49" height="60" frameX="-14" frameY="-3" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0043" x="714.75" y="406.5" width="49" height="60" frameX="-14" frameY="-3" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0044" x="714.75" y="406.5" width="49" height="60" frameX="-14" frameY="-3" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0045" x="714.75" y="406.5" width="49" height="60" frameX="-14" frameY="-3" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0046" x="714.75" y="406.5" width="49" height="60" frameX="-14" frameY="-3" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0047" x="714.75" y="406.5" width="49" height="60" frameX="-14" frameY="-3" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0048" x="714.75" y="406.5" width="49" height="60" frameX="-14" frameY="-3" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Darwin-die0049" x="714.75" y="406.5" width="49" height="60" frameX="-14" frameY="-3" frameWidth="80" frameHeight="70.5"/>
+	<SubTexture name="Down-miss0000" x="764.25" y="406.5" width="68" height="44.25" frameX="-3" frameY="-5.25" frameWidth="71" frameHeight="51.75"/>
+	<SubTexture name="Down-miss0001" x="832.75" y="406.5" width="68.5" height="47.25" frameX="0" frameY="-4.5" frameWidth="71" frameHeight="51.75"/>
+	<SubTexture name="Down-miss0002" x="832.75" y="406.5" width="68.5" height="47.25" frameX="0" frameY="-4.5" frameWidth="71" frameHeight="51.75"/>
+	<SubTexture name="Down-miss0003" x="901.75" y="406.5" width="64" height="51.75" frameX="-2" frameY="0" frameWidth="71" frameHeight="51.75"/>
+	<SubTexture name="Down-miss0004" x="901.75" y="406.5" width="64" height="51.75" frameX="-2" frameY="0" frameWidth="71" frameHeight="51.75"/>
+	<SubTexture name="Down-miss0005" x="0.5" y="467" width="65.25" height="49.5" frameX="-1.5" frameY="-2.25" frameWidth="71" frameHeight="51.75"/>
+	<SubTexture name="Down-miss0006" x="0.5" y="467" width="65.25" height="49.5" frameX="-1.5" frameY="-2.25" frameWidth="71" frameHeight="51.75"/>
+	<SubTexture name="Down-miss0007" x="66.25" y="467" width="65.25" height="49.75" frameX="-1.5" frameY="-2" frameWidth="71" frameHeight="51.75"/>
+	<SubTexture name="Down-miss0008" x="66.25" y="467" width="65.25" height="49.75" frameX="-1.5" frameY="-2" frameWidth="71" frameHeight="51.75"/>
+	<SubTexture name="Down-miss0009" x="66.25" y="467" width="65.25" height="49.75" frameX="-1.5" frameY="-2" frameWidth="71" frameHeight="51.75"/>
+	<SubTexture name="Down-miss0010" x="66.25" y="467" width="65.25" height="49.75" frameX="-1.5" frameY="-2" frameWidth="71" frameHeight="51.75"/>
+	<SubTexture name="Down-miss0011" x="66.25" y="467" width="65.25" height="49.75" frameX="-1.5" frameY="-2" frameWidth="71" frameHeight="51.75"/>
+	<SubTexture name="Down-miss0012" x="66.25" y="467" width="65.25" height="49.75" frameX="-1.5" frameY="-2" frameWidth="71" frameHeight="51.75"/>
+	<SubTexture name="Down-miss0013" x="66.25" y="467" width="65.25" height="49.75" frameX="-1.5" frameY="-2" frameWidth="71" frameHeight="51.75"/>
+	<SubTexture name="Down-miss0014" x="66.25" y="467" width="65.25" height="49.75" frameX="-1.5" frameY="-2" frameWidth="71" frameHeight="51.75"/>
+	<SubTexture name="Left-Miss0000" x="132" y="467" width="87.75" height="60.75" frameX="0" frameY="-1.75" frameWidth="87.75" frameHeight="62.5"/>
+	<SubTexture name="Left-Miss0001" x="220.25" y="467" width="79.5" height="55.5" frameX="-2.25" frameY="0" frameWidth="87.75" frameHeight="62.5"/>
+	<SubTexture name="Left-Miss0002" x="220.25" y="467" width="79.5" height="55.5" frameX="-2.25" frameY="0" frameWidth="87.75" frameHeight="62.5"/>
+	<SubTexture name="Left-Miss0003" x="300.25" y="467" width="77.75" height="55.5" frameX="-4.25" frameY="0" frameWidth="87.75" frameHeight="62.5"/>
+	<SubTexture name="Left-Miss0004" x="300.25" y="467" width="77.75" height="55.5" frameX="-4.25" frameY="0" frameWidth="87.75" frameHeight="62.5"/>
+	<SubTexture name="Left-Miss0005" x="378.5" y="467" width="78.75" height="55.5" frameX="-3.25" frameY="0" frameWidth="87.75" frameHeight="62.5"/>
+	<SubTexture name="Left-Miss0006" x="378.5" y="467" width="78.75" height="55.5" frameX="-3.25" frameY="0" frameWidth="87.75" frameHeight="62.5"/>
+	<SubTexture name="Left-Miss0007" x="457.75" y="467" width="78.5" height="55.5" frameX="-3.5" frameY="0" frameWidth="87.75" frameHeight="62.5"/>
+	<SubTexture name="Left-Miss0008" x="457.75" y="467" width="78.5" height="55.5" frameX="-3.5" frameY="0" frameWidth="87.75" frameHeight="62.5"/>
+	<SubTexture name="Left-Miss0009" x="457.75" y="467" width="78.5" height="55.5" frameX="-3.5" frameY="0" frameWidth="87.75" frameHeight="62.5"/>
+	<SubTexture name="Left-Miss0010" x="457.75" y="467" width="78.5" height="55.5" frameX="-3.5" frameY="0" frameWidth="87.75" frameHeight="62.5"/>
+	<SubTexture name="Left-Miss0011" x="457.75" y="467" width="78.5" height="55.5" frameX="-3.5" frameY="0" frameWidth="87.75" frameHeight="62.5"/>
+	<SubTexture name="Left-Miss0012" x="457.75" y="467" width="78.5" height="55.5" frameX="-3.5" frameY="0" frameWidth="87.75" frameHeight="62.5"/>
+	<SubTexture name="Left-Miss0013" x="457.75" y="467" width="78.5" height="55.5" frameX="-3.5" frameY="0" frameWidth="87.75" frameHeight="62.5"/>
+	<SubTexture name="Right-miss0000" x="536.75" y="467" width="75.5" height="58.5" frameX="-1.25" frameY="-5.5" frameWidth="76.75" frameHeight="64"/>
+	<SubTexture name="Right-miss0001" x="612.75" y="467" width="75.5" height="59" frameX="-0.25" frameY="0" frameWidth="76.75" frameHeight="64"/>
+	<SubTexture name="Right-miss0002" x="612.75" y="467" width="75.5" height="59" frameX="-0.25" frameY="0" frameWidth="76.75" frameHeight="64"/>
+	<SubTexture name="Right-miss0003" x="688.75" y="467" width="73.5" height="59" frameX="0" frameY="0" frameWidth="76.75" frameHeight="64"/>
+	<SubTexture name="Right-miss0004" x="688.75" y="467" width="73.5" height="59" frameX="0" frameY="0" frameWidth="76.75" frameHeight="64"/>
+	<SubTexture name="Right-miss0005" x="762.75" y="467" width="74" height="59" frameX="0" frameY="0" frameWidth="76.75" frameHeight="64"/>
+	<SubTexture name="Right-miss0006" x="762.75" y="467" width="74" height="59" frameX="0" frameY="0" frameWidth="76.75" frameHeight="64"/>
+	<SubTexture name="Right-miss0007" x="837.25" y="467" width="74" height="59" frameX="0" frameY="0" frameWidth="76.75" frameHeight="64"/>
+	<SubTexture name="Right-miss0008" x="837.25" y="467" width="74" height="59" frameX="0" frameY="0" frameWidth="76.75" frameHeight="64"/>
+	<SubTexture name="Right-miss0009" x="837.25" y="467" width="74" height="59" frameX="0" frameY="0" frameWidth="76.75" frameHeight="64"/>
+	<SubTexture name="Right-miss0010" x="837.25" y="467" width="74" height="59" frameX="0" frameY="0" frameWidth="76.75" frameHeight="64"/>
+	<SubTexture name="Right-miss0011" x="837.25" y="467" width="74" height="59" frameX="0" frameY="0" frameWidth="76.75" frameHeight="64"/>
+	<SubTexture name="Right-miss0012" x="837.25" y="467" width="74" height="59" frameX="0" frameY="0" frameWidth="76.75" frameHeight="64"/>
+	<SubTexture name="Right-miss0013" x="837.25" y="467" width="74" height="59" frameX="0" frameY="0" frameWidth="76.75" frameHeight="64"/>
+	<SubTexture name="Right-miss0014" x="837.25" y="467" width="74" height="59" frameX="0" frameY="0" frameWidth="76.75" frameHeight="64"/>
+	<SubTexture name="Up-miss0000" x="139.25" y="124.25" width="58" height="71.25" frameX="-1.25" frameY="-2.5" frameWidth="58.75" frameHeight="71.25"/>
+	<SubTexture name="Up-miss0001" x="911.75" y="467" width="52.25" height="73.25" frameX="-0.5" frameY="0" frameWidth="59.25" frameHeight="73.75"/>
+	<SubTexture name="Up-miss0002" x="911.75" y="467" width="52.25" height="73.25" frameX="-0.5" frameY="0" frameWidth="59.25" frameHeight="73.75"/>
+	<SubTexture name="Up-miss0003" x="964.5" y="467" width="53.5" height="69" frameX="0" frameY="-4.25" frameWidth="59.25" frameHeight="73.75"/>
+	<SubTexture name="Up-miss0004" x="964.5" y="467" width="53.5" height="69" frameX="0" frameY="-4.25" frameWidth="59.25" frameHeight="73.75"/>
+	<SubTexture name="Up-miss0005" x="0.5" y="540.75" width="52.75" height="70.75" frameX="-0.25" frameY="-2.5" frameWidth="59.25" frameHeight="73.75"/>
+	<SubTexture name="Up-miss0006" x="0.5" y="540.75" width="52.75" height="70.75" frameX="-0.25" frameY="-2.5" frameWidth="59.25" frameHeight="73.75"/>
+	<SubTexture name="Up-miss0007" x="53.75" y="540.75" width="52.75" height="70.5" frameX="-0.25" frameY="-2.75" frameWidth="59.25" frameHeight="73.75"/>
+	<SubTexture name="Up-miss0008" x="53.75" y="540.75" width="52.75" height="70.5" frameX="-0.25" frameY="-2.75" frameWidth="59.25" frameHeight="73.75"/>
+	<SubTexture name="Up-miss0009" x="53.75" y="540.75" width="52.75" height="70.5" frameX="-0.25" frameY="-2.75" frameWidth="59.25" frameHeight="73.75"/>
+	<SubTexture name="Up-miss0010" x="53.75" y="540.75" width="52.75" height="70.5" frameX="-0.25" frameY="-2.75" frameWidth="59.25" frameHeight="73.75"/>
+	<SubTexture name="Up-miss0011" x="53.75" y="540.75" width="52.75" height="70.5" frameX="-0.25" frameY="-2.75" frameWidth="59.25" frameHeight="73.75"/>
+	<SubTexture name="Up-miss0012" x="53.75" y="540.75" width="52.75" height="70.5" frameX="-0.25" frameY="-2.75" frameWidth="59.25" frameHeight="73.75"/>
+	<SubTexture name="Up-miss0013" x="53.75" y="540.75" width="52.75" height="70.5" frameX="-0.25" frameY="-2.75" frameWidth="59.25" frameHeight="73.75"/>
+	<SubTexture name="Up-miss0014" x="53.75" y="540.75" width="52.75" height="70.5" frameX="-0.25" frameY="-2.75" frameWidth="59.25" frameHeight="73.75"/>
+</TextureAtlas>
