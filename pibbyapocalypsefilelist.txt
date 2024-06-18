@@ -782,6 +782,9 @@ https://gamaverse.com/c/f/g/fnf-pibby-apocalypse-1692454948/assets/shared/images
 https://gamaverse.com/c/f/g/fnf-pibby-apocalypse-1692454948/assets/shared/images/stages/schoolMAW/images/void/gumballglitchbg.png
 https://gamaverse.com/c/f/g/fnf-pibby-apocalypse-1692454948/assets/shared/images/stages/schoolMAW/images/void/gumballglitchbg_low.png
 https://gamaverse.com/c/f/g/fnf-pibby-apocalypse-1692454948/assets/shared/images/stages/schoolMAW/images/void/gumballglitchbg_superlow.png
+https://gamaverse.com/c/f/g/fnf-pibby-apocalypse-1692454948/assets/shared/images/stages/schoolMAW/images/void/gumballglitchbg.xml
+https://gamaverse.com/c/f/g/fnf-pibby-apocalypse-1692454948/assets/shared/images/stages/schoolMAW/images/void/gumballglitchbg_low.xml
+https://gamaverse.com/c/f/g/fnf-pibby-apocalypse-1692454948/assets/shared/images/stages/schoolMAW/images/void/gumballglitchbg_superlow.xml
 https://gamaverse.com/c/f/g/fnf-pibby-apocalypse-1692454948/assets/shared/images/stages/schoolMAW/images/void/Ilustracion_sin_titulo-1.png
 https://gamaverse.com/c/f/g/fnf-pibby-apocalypse-1692454948/assets/shared/images/stages/schoolMAW/images/void/Ilustracion_sin_titulo-1_low.png
 https://gamaverse.com/c/f/g/fnf-pibby-apocalypse-1692454948/assets/shared/images/stages/schoolMAW/images/void/Ilustracion_sin_titulo-1_superlow.png
