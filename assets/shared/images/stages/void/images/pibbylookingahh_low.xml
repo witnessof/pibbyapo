@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pibbylookingahh.png">
+<SubTexture name="pibbylookingahh rotate0000" x="0" y="0" width="326.5" height="191" frameX="0" frameY="0" frameWidth="326.5" frameHeight="191" />
+<SubTexture name="pibbylookingahh rotate0001" x="326.5" y="0" width="326.5" height="191" frameX="0" frameY="0" frameWidth="326.5" frameHeight="191" />
+<SubTexture name="pibbylookingahh rotate0002" x="0" y="191" width="326.5" height="191" frameX="0" frameY="0" frameWidth="326.5" frameHeight="191" />
+<SubTexture name="pibbylookingahh rotate0003" x="326.5" y="191" width="326.5" height="191" frameX="0" frameY="0" frameWidth="326.5" frameHeight="191" />
+<SubTexture name="pibbylookingahh rotate0004" x="0" y="382" width="326.5" height="191" frameX="0" frameY="0" frameWidth="326.5" frameHeight="191" />
+<SubTexture name="pibbylookingahh rotate0005" x="326.5" y="382" width="326.5" height="191" frameX="0" frameY="0" frameWidth="326.5" frameHeight="191" />
+<SubTexture name="pibbylookingahh rotate0006" x="653" y="0" width="326.5" height="191" frameX="0" frameY="0" frameWidth="326.5" frameHeight="191" />
+<SubTexture name="pibbylookingahh rotate0007" x="653" y="191" width="326.5" height="191" frameX="0" frameY="0" frameWidth="326.5" frameHeight="191" />
+<SubTexture name="pibbylookingahh rotate0008" x="653" y="382" width="326.5" height="191" frameX="0" frameY="0" frameWidth="326.5" frameHeight="191" />
+<SubTexture name="pibbylookingahh rotate0009" x="0" y="573" width="326.5" height="191" frameX="0" frameY="0" frameWidth="326.5" frameHeight="191" />
+<SubTexture name="pibbylookingahh rotate0010" x="326.5" y="573" width="326.5" height="191" frameX="0" frameY="0" frameWidth="326.5" frameHeight="191" />
+<SubTexture name="pibbylookingahh rotate0011" x="653" y="573" width="326.5" height="191" frameX="0" frameY="0" frameWidth="326.5" frameHeight="191" />
+<SubTexture name="pibbylookingahh rotate0012" x="0" y="764" width="326.5" height="191" frameX="0" frameY="0" frameWidth="326.5" frameHeight="191" />
+</TextureAtlas>
