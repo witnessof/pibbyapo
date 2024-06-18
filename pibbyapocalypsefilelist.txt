@@ -4,6 +4,7 @@ https://gamaverse.com/c/f/g/fnf-pibby-apocalypse-1692454948/PsychEngine.js
 https://gamaverse.com/c/f/g/fnf-pibby-apocalypse-1692454948/do%20NOT%20readme.txt
 #MANIFEST FILES
 https://gamaverse.com/c/f/g/fnf-pibby-apocalypse-1692454948/manifest/shared.json
+https://gamaverse.com/c/f/g/fnf-pibby-apocalypse-1692454948/manifest/songs.json
 #HAXEFLIXEL ENGINE FILES
 https://gamaverse.com/c/f/g/fnf-pibby-apocalypse-1692454948/flixel/fonts/nokiafc22.woff
 https://gamaverse.com/c/f/g/fnf-pibby-apocalypse-1692454948/flixel/fonts/monsterrat.woff
